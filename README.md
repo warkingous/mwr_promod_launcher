@@ -10,14 +10,14 @@
 
 ---
 
-## 🎯 About
+## About
 
 This is a **client and server modification** designed to deliver the classic **Promod experience**, inspired by the competitive scene of **Call of Duty 4: Promod**.  
 The goal is to recreate and enhance the fast-paced, skill-based gameplay that defined CoD4 Promod, adapted for *Modern Warfare Remastered*.
 
 ---
 
-## ❗ Source Code
+## Source Code
 
 The source code will remain **private** for the time being as we are working on integrating **anti-cheat measures**. 
 
