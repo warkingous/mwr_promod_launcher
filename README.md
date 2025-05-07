@@ -31,7 +31,5 @@ The source code will remain **private** for the time being as we are working on 
 
 ## Disclaimer
 
-This software has been created purely for the purposes of **academic research**.  
-It is **not intended** to be used to attack other systems.  
-Project maintainers are **not responsible or liable** for misuse of the software.  
-**Use responsibly.**
+This software has been created purely for the purposes of **academic research**. It is **not intended** to be used to attack other systems.  Project maintainers are **not responsible or liable** for misuse of the software.  **Use responsibly.**
+
