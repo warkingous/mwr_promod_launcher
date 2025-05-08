@@ -1,0 +1,45 @@
+
+# Assault - aprast = bos14, augast = lynx
+weapon,h1_m16_mp
+weapon,h1_ak47_mp
+weapon,h1_m4_mp
+weapon,h1_g3_mp
+weapon,h1_g36c_mp
+weapon,h1_m14_mp
+weapon,h1_mp44_mp
+weapon,h1_xmlar_mp
+weapon,h1_aprast_mp
+weapon,h1_augast_mp
+
+
+# SpecOps - febsmg = mac10, fang45 = aprsmg, pkpsd9 = augsmg
+weapon,h1_mp5_mp
+weapon,h1_skorpion_mp
+weapon,h1_uzi_mp
+weapon,h1_ak74u_mp
+weapon,h1_p90_mp
+weapon,h1_febsmg_mp
+weapon,h1_aprsmg_mp
+weapon,h1_augsmg_mp
+
+# Sniper
+weapon,h1_m40a3_mp
+weapon,h1_remington700_mp
+weapon,h1_junsnp_mp
+
+# Demolitions
+weapon,h1_winchester1200_mp
+weapon,h1_m1014_mp
+
+# Pistols
+weapon,h1_beretta_mp
+weapon,h1_usp_mp
+weapon,h1_colt45_mp
+weapon,h1_deserteagle_mp
+weapon,h1_deserteagle55_mp
+weapon,h1_janpst_mp
+weapon,h1_aprpst_mp
+weapon,h1_augpst_mp
+
+# Grenade 
+weapon,h1_fraggrenade_mp
